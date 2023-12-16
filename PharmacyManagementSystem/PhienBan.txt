@@ -1,0 +1,4 @@
+﻿Microsoft.Net FrameWork version 4.8.09032
+Sql Server 2022 RTM (Internal Database Version 957) ->https://www.microsoft.com/en-us/download/details.aspx?id=105013
+Guna FrameWork 
+ADO.NET 
